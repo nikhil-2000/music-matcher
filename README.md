@@ -1,6 +1,6 @@
-# MusicMatcher
+# music-matcher
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+An Angular Web App which shows how similar two songs are
 
 ## Development server
 
