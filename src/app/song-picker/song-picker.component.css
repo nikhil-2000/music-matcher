@@ -1,0 +1,15 @@
+.all-songs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.song {
+    padding: 1%;
+}
+
+.go {
+    display: flex;
+    justify-content: center;
+}
